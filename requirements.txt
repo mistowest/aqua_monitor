@@ -1,0 +1,1 @@
+/* Aqua Monitor V5 source: requirements.txt. Full source is in the generated project archive. */
